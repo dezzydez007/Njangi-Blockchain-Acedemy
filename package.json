@@ -1,13 +1,13 @@
 {
-  "name": "cra-template-polygon-starter-kit",
-  "version": "0.6.0",
+  "name": "njangi-blockchain-academy",
+  "version": "0.0.1",
   "license": "MIT",
-  "author": "Lavender <vip_zhouzhenfeng@126.com>",
+  "author": "dezzydez007",
   "engines": {
     "node": ">=10"
   },
-  "main": "template.json",
-  "description": "A quick start Create React DApp template with React Router, @web3-react, truffle etc.",
+  "main": "App.js",
+  "description": "Njangi Blockchain Acedemy to educate those who are interested in learning and getting into Web3",
   "keywords": [
     "react",
     "create-react-app",
@@ -21,15 +21,10 @@
     "template",
     "template.json"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Polygon-Academy/starter-kits.git",
-    "directory": "/"
-  },
+  "repository": "https://github.com/Polygon-Academy/starter-kits.git",
   "bugs": {
     "url": "https://github.com/Polygon-Academy/starter-kits.git/issues"
   },
-
   "dependencies": {
     "@ethersproject/providers": "^5.4.3",
     "@testing-library/jest-dom": "^5.14.1",
