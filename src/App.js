@@ -24,8 +24,8 @@ function App() {
       <Content>
         <Container text textAlign='center'>
           <Image centered size='tiny' src={iconDevx} style={{marginBottom:"2em"}}/>
-          <p>Create React Ethereum DApp on Polygon</p>
-          <p>Build your first app with Starter Kits</p>
+          <p>Welcome to Njangi Acedemy</p>
+          <p>You would find all the resources needed to start your journey into Web3</p>
         </Container>
       </Content>
       <Footer/>
